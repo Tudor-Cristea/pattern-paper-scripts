@@ -1,4 +1,4 @@
-The scripts used for the "Temporal Evolution of Self-Regulated Learning in Online Courses: Markov Modelling Across Course Periods". These are all done using Canvas data. Some have prerequisites, which are mentioned below; I also numbered the scripts, so it is easier to follow.
+The scripts used for the "Dynamics of Self-Regulated Learning: The Effectiveness of Students’ Strategies Across Course Periods". These are all done using Canvas data. Some have prerequisites, which are mentioned below; I also numbered the scripts, so it is easier to follow.
 
 You should start by loading the "course_dim" table which contains the "course_id" of your targeted course. This can be used to filter the requests from the "requests" table. You should also add the "enrollment_dim" table in order to filter for the role (e.g., students) using the "type" column. 
 
