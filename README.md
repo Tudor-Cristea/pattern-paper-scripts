@@ -1,4 +1,6 @@
-The scripts used for the "Dynamics of Self-Regulated Learning: The Effectiveness of Students’ Strategies Across Course Periods". These are all done using Canvas data. Some have prerequisites, which are mentioned below; I also numbered the scripts, so it is easier to follow.
+These are the scripts used during the analysis for the "Dynamics of self-regulated learning: The effectiveness of students’ strategies across course periods" article by T.S. Cristea, S. Heikkinen, C. Snijders, M. Saqr, U. Matzat, R. Conijn, and A. Kleingeld. This was published in the Computers & Education journal (2025).
+
+These are all done using Canvas data. Some have prerequisites, which are mentioned below; I also numbered the scripts, so it is easier to follow.
 
 You should start by loading the "course_dim" table which contains the "course_id" of your targeted course. This can be used to filter the requests from the "requests" table. You should also add the "enrollment_dim" table in order to filter for the role (e.g., students) using the "type" column. 
 
