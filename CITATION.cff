@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+title: >-
+  Scripts for: Dynamics of self-regulated learning: The
+  effectiveness of students' strategies across course periods
+message: >-
+  If you use this code, please cite the paper listed
+  under preferred-citation.
+type: software
+authors:
+  - given-names: Tudor
+    family-names: Cristea
+    affiliation: Eindhoven University of Technology
+    orcid: 'https://orcid.org/0000-0003-1377-0971'
+repository-code: 'https://github.com/Tudor-Cristea/pattern-paper-scripts'
+abstract: >-
+  R scripts used to identify students' learning tactics and
+  strategies from Canvas trace data with (mixture) Markov
+  models, and to analyse how strategies change across course
+  periods. Chapter 5 of the author's PhD dissertation.
+keywords:
+  - self-regulated learning
+  - learning analytics
+  - Markov models
+  - learning strategies
+  - Canvas
+license: MIT
+preferred-citation:
+  type: article
+  title: >-
+    Dynamics of self-regulated learning: The effectiveness
+    of students' strategies across course periods
+  authors:
+    - given-names: Tudor
+      family-names: Cristea
+      orcid: 'https://orcid.org/0000-0003-1377-0971'
+    - given-names: Sami
+      family-names: Heikkinen
+    - given-names: Chris
+      family-names: Snijders
+    - given-names: Mohammed
+      family-names: Saqr
+    - given-names: Uwe
+      family-names: Matzat
+    - given-names: Rianne
+      family-names: Conijn
+    - given-names: Ad
+      family-names: Kleingeld
+  journal: Computers & Education
+  volume: 228
+  year: 2025
+  doi: 10.1016/j.compedu.2025.105233
